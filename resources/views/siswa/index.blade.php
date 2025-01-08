@@ -3,7 +3,7 @@
 <table class="table">
     <thead>
         <tr>
-            <th>nis</th>
+            <th>Nis</th>
             <th>nama</th>
             <th>alamat</th>
             <th>aksi</th>

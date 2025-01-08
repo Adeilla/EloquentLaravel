@@ -5,7 +5,7 @@
         <a href="/siswa" class="btn btn-secondary"><< kembali</a>
         <h1>{{$data->nama}}</h1>
         <p>
-            <b>nomor induk siswa: </b>{{$data->nis}}
+            <b>Nomor induk siswa: </b>{{$data->nis}}
         </p>
         <p>
             <b>alamat: </b>{{$data->alamat}}
